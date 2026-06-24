@@ -2,7 +2,7 @@
 
 ## 📌 Tentang Proyek
 
-Proyek ini dikembangkan untuk membantu proses rekapitulasi dan analisis hasil penilaian Program Kreativitas Mahasiswa (PKM). Sistem ini dirancang untuk mengotomatisasi pengolahan data penilaian serta memberikan rekomendasi reviewer berdasarkan hasil evaluasi proposal.
+Proyek ini dikembangkan untuk membantu proses rekapitulasi dan analisis hasil penilaian Program Kreativitas Mahasiswa (PKM) Tahun 2025. Sistem ini dirancang untuk mengotomatisasi pengolahan data penilaian serta memberikan rekomendasi reviewer berdasarkan hasil evaluasi proposal.
 
 ---
 
@@ -120,7 +120,7 @@ images/dashboard.png
 ## 📁 Struktur Repository
 
 ```text
-├── Rekap_Nilai_PKM.xlsx
+├── Rekap_Nilai_PKM_2025.xlsx
 ├── images/
 │   └── dashboard.png
 └── README.md
