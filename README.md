@@ -120,7 +120,7 @@ images/dashboard.png
 ## 📁 Struktur Repository
 
 ```text
-├── Portofolio_Rekap_Nilai_PKM_2025.xlsx
+├── Rekap_Nilai_PKM.xlsx
 ├── images/
 │   └── dashboard.png
 └── README.md
@@ -132,8 +132,10 @@ images/dashboard.png
 
 **Septa Bagas Setyawan**
 
-* LinkedIn: https://www.linkedin.com/in/septa-bagas-setyawan
-* GitHub: https://github.com/septabagass
+Tim Data PKM Center Universitas Negeri Yogyakarta
+
+* LinkedIn: [https://www.linkedin.com/in/septabagass](https://www.linkedin.com/in/septabagass/)
+* GitHub: [https://github.com/septabagass](https://github.com/septabagass))
 
 ---
 
